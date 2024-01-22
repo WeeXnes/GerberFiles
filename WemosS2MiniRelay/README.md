@@ -21,3 +21,10 @@ Components:
 
 
 
+### Usage:
+Relays are connected to:
+Relay 1: GPIO1
+Relay 2: GPIO3
+Relay 3: GPIO2
+Relay 4: GPIO5
+
