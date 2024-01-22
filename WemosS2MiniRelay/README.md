@@ -28,3 +28,6 @@ Relay 2: GPIO3
 Relay 3: GPIO2
 Relay 4: GPIO5
 
+#### Info:
+This board is working, yet i did not test if its working for 230V since im only using it for lower voltage loads.
+Try at your own risk
